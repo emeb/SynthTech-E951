@@ -1,7 +1,7 @@
 # SynthTech-E951
 Design Materials for the Synthesis Technology E951 Looping Expander
 
-<img src="DOC/E951.jpg" width="640" />
+<img src="Doc/E951.jpg" width="640" />
 
 ## Abstract
 The Synthesis Technology E951 Looping Expander is an auxilliary module that
