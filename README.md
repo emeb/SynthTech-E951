@@ -18,4 +18,8 @@ the release of this design information that some of them will find partners.
 This directory provides all the source code scripts and vendor libraries needed
 to recreate the E951 binary firmware. 
 
+## Hardware
+This directory holds schematics and drawings that provide sufficient detail to
+create a compatible hardware platform to run the E951 firmware and interface
+to the E950 expansion connector.
 
